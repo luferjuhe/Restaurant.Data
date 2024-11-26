@@ -1,0 +1,14 @@
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/bin/Debug/net6.0/Restaurant.Data.deps.json
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/bin/Debug/net6.0/Restaurant.Data.runtimeconfig.json
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/bin/Debug/net6.0/Restaurant.Data.dll
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/bin/Debug/net6.0/Restaurant.Data.pdb
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.csproj.AssemblyReference.cache
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.AssemblyInfoInputs.cache
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.AssemblyInfo.cs
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.csproj.CoreCompileInputs.cache
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.dll
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/refint/Restaurant.Data.dll
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.pdb
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/Restaurant.Data.genruntimeconfig.cache
+/Users/usuario/Projects/Restaurant.Data/Restaurant.Data/obj/Debug/net6.0/ref/Restaurant.Data.dll
